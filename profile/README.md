@@ -1,6 +1,6 @@
-# <img src="Graphics/EoSAlign_With_Sun.PNG" alt="EoSAlign Logo" width="80" style="vertical-align:middle;">
+# <img src="Graphics/EoSApplications_With_Sun.PNG" alt="EoSApplications Logo" width="80" style="vertical-align:middle;">
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey) ![Python](https://img.shields.io/badge/python-3.9%2B-green)
+![Version](https://img.shields.io/badge/version-0.1.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey) ![Python](https://img.shields.io/badge/python-3.9%2B-green)
 
 > **Note:** This is a testing version of EoSAlign. No DOI is currently assigned. Minor errors may be present as we improve the code
 
@@ -8,7 +8,7 @@ EoSAlign is a desktop application designed for comparing and converting pressure
 
 ## Installation 
 
-EoSAlign can be installed here: https://github.com/peaseall/EoSApplications/releases/tag/pre-release
+EoSAlign can be installed here: https://github.com/EoSApplications/EoSApplications/releases/tag/pre-release
 
 ## Work Flow
 
