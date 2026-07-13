@@ -2,13 +2,14 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey) ![Python](https://img.shields.io/badge/python-3.10%2B-green)
 
-> **Note:** This is a testing version of EoSAlign. No DOI is currently assigned. Minor errors may be present as we improve the code
+> **Note:** If you use this software, please cite, Pease, A.& Krauss, H. N. (2026). EoSAlign: An Open–Source Software for Calculating, Comparing, and Aligning Pressure Under Extreme Conditions (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21230861.
 
 EoSAlign is a desktop application designed for comparing and converting pressure calibrations using equations of state (EoS). This application enables the comparison of measured data directly with published calibrations of similar composition and methodology. This application supports both measured data and pressure converted data.
 
 ## Installation 
 
-EoSAlign can be installed here: https://github.com/EoSApplications/EoSApplications/releases/tag/pre-release
+EoSAlign can be installed here: https://github.com/EoSApplications/EoSAlign. 
+Or accessed online at https://eosapplications.com or https://eosalign.com
 
 ## Work Flow
 
@@ -136,4 +137,4 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ##
 Copyright &copy; 2026 Pease et al.
 
-Last Updated: May 17<sup>th</sup>, 2026
+Last Updated: July 13<sup>th</sup>, 2026
